@@ -238,8 +238,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7cd288ef5949cd4da981eeda530acc2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  velZoomOrthographic: 0.5
-  velZoomPerspective: 0.5
+  velZoomOrthographic: 0.01
+  velZoomPerspective: 0.01
   frequencia: 3
 --- !u!20 &519420031
 Camera:
